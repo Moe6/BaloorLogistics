@@ -716,6 +716,7 @@ section {
     padding: 0;
     line-height: 1;
     font-size: 36px;
+  }
 }
 
 @media (max-width: 575px) {
